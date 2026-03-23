@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Code.io-master/static/css/main.10759bd3.chunk.css",
+    "main.js": "/Code.io-master/static/js/main.769c131e.chunk.js",
+    "main.js.map": "/Code.io-master/static/js/main.769c131e.chunk.js.map",
+    "runtime-main.js": "/Code.io-master/static/js/runtime-main.f2b2c965.js",
+    "runtime-main.js.map": "/Code.io-master/static/js/runtime-main.f2b2c965.js.map",
+    "static/css/2.53b1af87.chunk.css": "/Code.io-master/static/css/2.53b1af87.chunk.css",
+    "static/js/2.355bc4ad.chunk.js": "/Code.io-master/static/js/2.355bc4ad.chunk.js",
+    "static/js/2.355bc4ad.chunk.js.map": "/Code.io-master/static/js/2.355bc4ad.chunk.js.map",
+    "static/js/3.509c58f2.chunk.js": "/Code.io-master/static/js/3.509c58f2.chunk.js",
+    "static/js/3.509c58f2.chunk.js.map": "/Code.io-master/static/js/3.509c58f2.chunk.js.map",
+    "index.html": "/Code.io-master/index.html",
+    "static/css/2.53b1af87.chunk.css.map": "/Code.io-master/static/css/2.53b1af87.chunk.css.map",
+    "static/css/main.10759bd3.chunk.css.map": "/Code.io-master/static/css/main.10759bd3.chunk.css.map",
+    "static/js/2.355bc4ad.chunk.js.LICENSE.txt": "/Code.io-master/static/js/2.355bc4ad.chunk.js.LICENSE.txt",
+    "static/media/hero-img.14dc8f7a.png": "/Code.io-master/static/media/hero-img.14dc8f7a.png",
+    "static/media/shape-1.14eac045.svg": "/Code.io-master/static/media/shape-1.14eac045.svg",
+    "static/media/shape-2.f2d172ea.svg": "/Code.io-master/static/media/shape-2.f2d172ea.svg",
+    "static/media/shape-3.63e593ae.svg": "/Code.io-master/static/media/shape-3.63e593ae.svg",
+    "static/media/shape-6.f5ce9707.svg": "/Code.io-master/static/media/shape-6.f5ce9707.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2b2c965.js",
+    "static/css/2.53b1af87.chunk.css",
+    "static/js/2.355bc4ad.chunk.js",
+    "static/css/main.10759bd3.chunk.css",
+    "static/js/main.769c131e.chunk.js"
+  ]
+}
